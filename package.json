@@ -1,0 +1,11 @@
+{
+  "name": "telegram-bot-info-cli",
+  "version": "1.0.0",
+  "description": "Easily get Chat IDs and Basic Bot Information",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "author": "kosttykov",
+  "license": "MIT"
+}
